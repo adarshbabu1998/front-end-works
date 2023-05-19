@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Smokum&display=swap');
+
+/* font-family: 'Smokum', cursive; */
+
+.h11{
+    text-align: justify;
+    color: rgb(15, 4, 49);
+    margin-left: 800px;
+    margin-right: 900px;
+    font-size:xx-large;
+    font-family: 'Smokum';
+    font-weight: 900;
+    border:5px  rgb(12, 251, 207);
+    border-style:groove ;
+    
+}
+
+.redp{
+    color:red;
+     /*margin-left: 40px;
+    margin-top: 30px;*/
+    font-family:'cursive';
+    font-size: 25px;
+    font-weight: 500;
+    margin: 20px 80px 20px 0px;
+    
+}
+
+/* top right bottom left */
+
+
+.div-tag h1,
+.div-tag p{
+    background-color: rgb(28, 2, 30); 
+    color: rgb(172, 31, 31);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    
+    border:5px rgb(7, 125, 7);
+    border-style:dotted;
+}
+div .p-class{
+    color: rgb(207, 22, 22);
+    background-color: rgb(37, 154, 197);
+}
+/* .div-tag p or div.div-tag p or .p-class or .div-tag .p-class */
+
+.p1{
+    color: rgb(61, 4, 4);
+    text-align: justify;
+    font-weight: 900;
+    border-bottom: 3px groove rgb(171, 16, 70);
+}
+.p2{
+    color: rgb(1, 9, 28);
+    text-align: center;   
+    font-weight: 900;
+    font-style: oblique; 
+    border-bottom: 3px groove rgb(171, 16, 70) ;                                                                                                                                                                                                                                                          
+
+}
+.p3{
+    color: rgb(1, 23, 34);
+    text-align: left;
+    font-weight: 900;
+    border-bottom: 3px groove rgb(171, 16, 70);
+  
+}
