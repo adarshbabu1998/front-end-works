@@ -1,0 +1,73 @@
+.background{
+    background-color: rgb(154, 76, 227);
+    height:800px ;
+    width:1400px;
+    margin-left: 150px;
+    margin-top: 80px;
+    border-radius: 3px;
+}
+.course{
+    background-color: rgb(7, 7, 46);
+    color: antiquewhite;
+    padding-bottom: 100px;
+    padding-top: 30px;
+    padding-left: 30px;
+    margin-left: 0px;
+    margin-right: 1000px;
+    font-size: 30px;
+    margin-top: 300px;
+    border-radius: 10px;
+}
+
+  
+.fundamentals{
+   
+    color: rgb(222, 202, 240);
+    margin-top: -800px;
+   
+    margin: 10px;
+}
+.call{
+    background-color: antiquewhite;
+    height: 200px;
+    margin-left: 350px;
+    margin-bottom:100 ;
+    margin-top:-229px;
+    margin-right: 600px;
+    border-radius: 10px;
+
+}
+.chap{
+    margin-top: -200px;
+    margin-left: 400px;
+}
+.back{
+    color: rgb(17, 18, 18);
+    margin-left:400px ;
+    margin-top: 30px;
+    font-size: 40px;
+
+}
+.button{
+    margin-left: 680px;
+    background-color: rgb(13, 13, 75);
+    color: antiquewhite;
+    font-size: 20px;
+    margin-right: 630px;
+    padding-left: 7px;
+    border-radius: 20px;
+}
+.bar{
+    height: 30px;
+    margin-left: 640px;
+    margin-top: 0px;
+
+  
+     
+
+}
+
+
+
+
+
