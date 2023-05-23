@@ -1,0 +1,63 @@
+ body{
+    background-color: aliceblue;
+    background-image: url('/pictures/wild4.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-blend-mode:overlay;
+    background-attachment: fixed;
+    bac
+ }
+ h1.life{
+    font-size: 30px;
+    color: cadetblue;
+    background-color: rgb(89, 95, 66);
+    padding-left: 10px;
+    margin-left: 340px;
+    margin-right: 350px;
+    padding-top: 10px;
+    border-bottom: 2px solid rgb(219, 16, 16);
+    border-radius: 20px;
+}
+.wild{
+    font-style: italic;
+    font-size: 15px;
+    font-weight: 900px;
+    
+    
+}
+.w1{
+    height:400px;
+    width: 600px;
+    padding-left: 10px;
+    
+}
+.w2{
+    height:400px;
+    width: 600px;
+    padding-left: 500px;
+    
+}
+.w3{
+    height:400px;
+    width: 600px;
+    padding-left: 565px;
+    
+    
+}
+.w4{
+    height:400px;
+    width: 650px;
+    padding-left: 20px;
+    
+    
+  
+   
+}
+.w5{
+    height:400px;
+    width: 600px;
+    padding-left: 450px;
+   
+   
+}
