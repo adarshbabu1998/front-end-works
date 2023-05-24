@@ -1,0 +1,55 @@
+body{
+    background-image: url('../pictures/wild4.jpg');
+
+    background-repeat: no-repeat;
+    background-size: 340px;
+    
+    
+}
+.but{
+    color: rgb(36, 1, 16);
+    background-color: rgb(19, 203, 133);
+    font-weight:201px ;
+    font-style:inherit;
+    margin: 12px 240px 0px 200px;
+    text-shadow: 1px 3px 2px yellow;
+    box-shadow: 2px 2px 20px rgb(184, 57, 91);
+
+}
+.name{
+    color: rgb(7, 7, 7);
+    background-color: antiquewhite;
+    border-top: 2px black;
+    margin-left: 20px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 20px rgb(13, 190, 122);
+    
+    
+   }
+
+
+.no{
+    background-color: antiquewhite;
+    border-top: 2px black;
+    margin-left: 23px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 20px rgb(13, 190, 122);
+    
+}
+.email{
+    background-color: antiquewhite;
+    border-top: 2px black;
+    margin-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 20px rgb(13, 190, 122);
+    
+}
+.l1{color: aqua;}
+.l2{color: aqua;}
+.l3{color: aqua;}
