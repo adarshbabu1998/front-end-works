@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300&display=swap');
+/* font-family: 'Manrope', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&display=swap');
+/* font-family: 'Roboto Mono', monospace; */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@100&family=Dosis:wght@200&family=Montserrat:wght@100&display=swap');
+/* font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Dosis', sans-serif;
+font-family: 'Montserrat', sans-serif;*/
+.a{ 
+    padding-top: 500px;
+    background-color: rgba(247, 247, 247, 0.678);
+    font-size: 20px;
+    margin-right: 600px;
+    padding-left: 30px;
+    margin-left: 50px;
+    margin-top: 0px;
+    height: 900px;
+    width: 1000px;
+    font-family:'Dosis' ;
+}
+.b{
+    
+    padding-left: 80px;
+    margin-top: -1000px;
+    font-family:'Roboto Mono';
+    font-size: 30px;
+}
+.but{
+   color: aliceblue;
+    background-color: red;
+    margin-top: 150px;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin-right: 1600px;
+    box-shadow: 5px 5px 20px rgb(224, 5, 5);
+    margin-left: 80px;
+}
+
+.img{
+    margin-top: -500px;
+    margin-left: 900px;
+}
