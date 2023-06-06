@@ -10,6 +10,17 @@
 /* font-family: 'Barlow Condensed', sans-serif;
 font-family: 'Dosis', sans-serif;
 font-family: 'Montserrat', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600&display=swap');
+/* font-family: 'Rajdhani', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200&family=Quicksand:wght@300&family=Rajdhani:wght@500;600&display=swap');
+
+/* font-family: 'Quicksand', sans-serif; */
+
+/* --------------------------------------------------------------------------------first section------------------------------------------------------- */
+.first-sec{
+    margin-top: -5%;
+}
 .a{ 
     padding-top: 500px;
     background-color: rgba(247, 247, 247, 0.678);
@@ -25,7 +36,7 @@ font-family: 'Montserrat', sans-serif;*/
 .b{
     
     padding-left: 80px;
-    margin-top: -1000px;
+    margin-top: -1050px;
     font-family:'Roboto Mono';
     font-size: 30px;
 }
@@ -35,16 +46,106 @@ font-family: 'Montserrat', sans-serif;*/
     margin-top: 150px;
     font-size: 20px;
     padding-left: 30px;
-    padding-right: 30px;
+    padding-right: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 10px;
-    margin-right: 1600px;
-    box-shadow: 5px 5px 20px rgb(224, 5, 5);
+    margin-right: 100px;
+    box-shadow: 5px 10px 20px rgb(224, 5, 5);
     margin-left: 80px;
 }
 
-.img{
+.img img{
     margin-top: -500px;
     margin-left: 900px;
+    width: 400px;
+    
 }
+
+/* --------------------------------------------------------------------------------first section------------------------------------------------------- */
+
+/* --------------------------------------------------------------------------------second section------------------------------------------------------- */
+.sec2{
+    background-color: white;
+}
+.head1 h1{
+    font-family: 'Dosis';
+    padding-top: 15%;
+    font-size: 50px;
+}
+.pics{
+    display: inline-flex; 
+}
+.im2{
+    padding-left: 30%;
+}
+.im3{
+    padding-left: 5%;
+   
+}
+.im4{
+    padding-left: 3%;
+    
+}
+.cheese{
+    margin-left: 60px;
+    font-family: 'Rajdhani';
+}
+.bread{
+    margin-left: 85px;
+    margin-top: -1%;
+    font-family: 'Quicksand';
+}
+.price1{
+    padding-left: 35%;
+    margin-top: -4%;
+
+}
+.cheese1{
+    padding-left: 20%;
+    font-family: 'Rajdhani';
+}
+.bread2{
+    padding-left: 100px;
+    margin-top: -8px;
+    font-family: 'Quicksand';
+}
+.price2{
+    padding-left: 40%;
+    margin-top: -4%;
+
+}
+
+.cheese2{
+    padding-left: 30%;
+    margin-top: 5%;
+    font-family: 'Rajdhani';
+}
+.bread3{
+    padding-left: 39%;
+    margin-top: -1%;
+    font-family: 'Quicksand';
+}
+.price3{
+    padding-left: 50%;
+    margin-top: -4%;
+
+}
+/*----------------------------------------------------------------------------------- second section--------------------------------------------------- */
+
+/*-------------------------------------------------------------------------------------third section ----------------------------------------------------*/
+
+.head2{
+    margin-top: 400px;
+    font-family:'Rajdhani' ;
+    font-size: 70px;
+}
+
+.f1,.f2,.f3 {
+    margin-left: 20%;
+  
+}
+.f1{
+    margin-top: 100px;
+}
+
