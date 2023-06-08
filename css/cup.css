@@ -205,3 +205,26 @@ font-family: 'Montserrat', sans-serif;*/
      margin-left: 340px;
  }
 
+ .social{
+    display: inline-flex; 
+    margin-left: 720px;
+    background-color: rgb(216, 226, 226);
+    width: 320px;
+    padding-left: 40px;
+ }
+ .im3{
+    height: 50px;
+
+ }
+ .im4{
+    height: 50px;
+ }
+ .im5{
+    height: 50px;
+ }
+ .im6{
+    height: 50px;
+ }
+ .im7{
+    height: 50px;
+ }
